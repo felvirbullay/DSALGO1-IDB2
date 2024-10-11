@@ -8,3 +8,5 @@ Repository for all of DSALGO activities
 Midterms:
 
 09/27/2024-Activity1
+
+10/11/2024-Activity2
