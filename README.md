@@ -14,3 +14,5 @@ Midterms:
 10/18/2024-Activity3
 
 11/15/2024-Finals Activity1
+
+11/22/2024-Finals Activity2
